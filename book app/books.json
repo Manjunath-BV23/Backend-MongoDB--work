@@ -1,0 +1,15 @@
+[{"title": "Northanger Abbey", "author": "Austen, Jane", "year_written": 1814, "section": "History", "price":  18.2},
+{"title": "War and Peace", "author": "Tolstoy, Leo", "year_written": 1865, "section": "History", "price":  12.7},
+{"title": "Anna Karenina", "author": "Tolstoy, Leo", "year_written": 1875, "section": "History", "price":  13.5},
+{"title": "Mrs. Dalloway", "author": "Woolf, Virginia", "year_written": 1925, "section": "Life skills", "price":  25},
+{"title": "The Hours", "author": "Cunnningham, Michael", "year_written": 1999, "section": "Life skills", "price":  12.35},
+{"title": "Huckleberry Finn", "author": "Twain, Mark", "year_written": 1865, "section": "History", "price":  5.76},
+{"title": "Bleak House", "author": "Dickens, Charles", "year_written": 1870, "section": "Communication", "price":  5.75},
+{"title": "Tom Sawyer", "author": "Twain, Mark", "year_written": 1862, "section": "Communication", "price":  7.75},
+{"title": "A Room of One's Own", "author": "Woolf, Virginia", "year_written": 1922, "section": "History", "price":  29},
+{"title": "Harry Potter", "author": "Rowling, J.K.", "year_written": 2000, "section": "Life skills", "price":  19.95},
+{"title": "One Hundred Years of Solitude", "author": "Marquez", "year_written": 1967, "section": "Communication", "price":  14.00},
+{"title": "Hamlet, Prince of Denmark", "author": "Shakespeare", "year_written": 1603, "section": "Communication", "price":  7.95},
+{"title": "Lord of the Rings", "author": "Tolkien, J.R.", "year_written": 1937, "section": "History", "price":  27.45}]
+
+

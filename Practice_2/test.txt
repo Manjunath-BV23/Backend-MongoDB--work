@@ -1,0 +1,15 @@
+section >> model {}
+books >> model {
+    author:[{type: mongoose.Scheme.Type.ObjectId, required:true, ref:author}]
+}
+author >> {}
+user >> {}
+
+
+section : biology {
+ books : {type:mongoose.Schema.Type.ObjectId, required:true, ref: books}
+},
+
+book = {
+
+}
